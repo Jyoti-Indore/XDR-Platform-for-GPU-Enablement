@@ -157,7 +157,7 @@ Threat Detection   Threat Intelligence APIs
 
 ## 📸 Project Screenshots
 
-### 🖥️ VMware Setup
+### 🖥️ Flow Diagram
 Initial virtual lab environment containing Ubuntu and Kali Linux virtual machines.
 
 ![VMware Setup](docs/vmware-setup.png)
