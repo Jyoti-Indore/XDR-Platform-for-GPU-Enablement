@@ -154,17 +154,6 @@ Threat Detection   Threat Intelligence APIs
 
 ---
 
-## 👥 Team Structure
-
-| Role | Responsibility |
-|--------|----------------|
-| Group Leader | Architecture Design, API Integration, Documentation |
-| Member 1 | Virtual Infrastructure and VM Setup |
-| Member 2 | Wazuh Deployment and Detection Rules |
-| Member 3 | Attack Simulation and Threat Intelligence |
-| Member 4 | Predictive Analysis and GPU Enablement |
-
----
 
 ## 📸 Project Screenshots
 
