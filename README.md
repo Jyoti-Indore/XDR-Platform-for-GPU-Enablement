@@ -159,7 +159,7 @@ Threat Detection   Threat Intelligence APIs
 
 Click the link below to view the complete project demonstration document:
 
-🔗 [View Project Demonstration PDF](reports/XDR_Project_Demonstration.pdf)
+🔗 [View Project Demonstration PDF](XDR_Project_Demonstration.pdf)
 
 ---
 
