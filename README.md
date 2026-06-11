@@ -163,10 +163,10 @@ Click the link below to view the complete project demonstration document:
 
 ---
 
-### 🏗️ System Architecture
-Overall architecture of the GPU-Enabled XDR Platform.
+### Flow Diagram
 
-![System Architecture](docs/architecture.png)
+
+[Flow Diagram](Flow Diagram.jpeg)
 ## 📈 Future Scope
 
 - Real GPU acceleration using NVIDIA CUDA
