@@ -163,10 +163,13 @@ Click the link below to view the complete project demonstration document:
 
 ---
 
-### Flow Diagram
+## 🔄 Project Flow Diagram
 
+Click below to view the complete project flow diagram:
 
-[Flow Diagram](Flow Diagram.jpeg)
+🖼️ [View Flow Diagram](Flow_Diagram.jpeg)
+
+---
 ## 📈 Future Scope
 
 - Real GPU acceleration using NVIDIA CUDA
